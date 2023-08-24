@@ -1,1 +1,2 @@
-# email-prompt-generator-and-audience-recommendation
+# email-campaign-prompt-generator
+ 

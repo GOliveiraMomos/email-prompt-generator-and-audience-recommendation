@@ -1,0 +1,19 @@
+{
+    "business_metrics": {
+        "survey_rating_change_week_over_week": -0.5,
+        "number_of_surveys_received_change_week_over_week": -15,
+        "google_rating_change_week_over_week": -1,
+        "yelp_rating_change_week_over_week": 0,
+        "sales_change_week_over_week": -0.1
+    },
+    "temporal_factors": {
+        "month": "August",
+        "day": 1,
+        "year": "2023",
+        "upcoming_holidays": [
+            {"name" : "Singapore National Day", "date" : "August 7th, 2023"}
+        ],
+        "current_weather" : {"precipitation" : "rainy", "temperature" : 40, "units" : "celsius"}
+    },
+    "new_outlets_opening" : [{"outlet_name" : "Woodlands", "location" : "123 Fake Street"}]
+}
